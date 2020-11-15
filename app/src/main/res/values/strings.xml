@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gray</string>
+    <string name="title_activity_current_locate">Map</string>
+    <string name="title_activity_pin_locate">Map</string>
+    <string name="title_activity_pin">Map</string>
+    <string name="take_barcode_picture" />
+    <string name="scan_barcode" />
+    <string name="open_camera" />
+</resources>
